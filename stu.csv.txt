@@ -1,0 +1,8 @@
+name,cgpa,dept,age
+umang,0.5,cs,10
+yash,0.3,cs,120
+drishti,-2000,me,5
+jagrat,0.2,ce,19
+harsh,10,cs,20
+anjali,9,ps,19
+aditi,2,cs,20
